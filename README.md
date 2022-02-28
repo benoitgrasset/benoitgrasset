@@ -1,5 +1,7 @@
 ### Hey, I'm Benoit GRASSET! 👋
 
+📫 How to reach me: benoit.grasset@gmail.com
+
 <!--
 **benoitgrasset/benoitgrasset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
