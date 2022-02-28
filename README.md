@@ -2,6 +2,9 @@
 
 📫 How to reach me: benoit.grasset@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benoitgrasset)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **benoitgrasset/benoitgrasset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
