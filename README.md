@@ -60,5 +60,3 @@
 ## Contributions
 
 ![github-user-contribution](https://github.com/benoitgrasset/benoitgrasset/assets/32497923/23ebd0a6-8e02-4f8a-bb13-e03c066e46ce)
-
-![github-user-contribution](dist/github-snake.svg)
