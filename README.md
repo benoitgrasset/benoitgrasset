@@ -22,6 +22,10 @@
 
 **url**: https://strava-dashboard-compare.netlify.app/
 
+- ### Loan Simulator
+
+**url**: https://loan-simulator-neon.vercel.app/
+
 - ### ZWO editor
 
 **repo**: [zwift](https://github.com/benoitgrasset/zwift)
